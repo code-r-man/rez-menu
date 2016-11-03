@@ -72,6 +72,8 @@ backdrop_show | boolean | true | Toggle visibility of the backdrop area. If set 
 ####Browser compatibility
 - android 4.4+
 - iOS 7+
+- Edge 13+
+- IE 9+
 
 #### Dependencies
 
