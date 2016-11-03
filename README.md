@@ -69,6 +69,10 @@ logo_center | boolean | true |  Move the logo to center on mobile view.
 backdrop_close | boolean | true | Clicking on area outside the menu will close the it.
 backdrop_show | boolean | true | Toggle visibility of the backdrop area. If set to `false` it will keep it's functionality, it will just not be visible.
 
+####Browser compatibility
+- android 4.4+
+- iOS 7+
+
 #### Dependencies
 
 jQuery 1.7
