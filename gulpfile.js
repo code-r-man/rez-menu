@@ -18,7 +18,7 @@ var gulp = require('gulp'),
 
 //SASS
 gulp.task('styles', function() {
-  return sass('production/sass/styles.scss', {
+  return sass('production/sass/style-rez-menu.scss', {
         style: 'expanded',
         "sourcemap=none": true //hack to allow autoprefixer to work
     })

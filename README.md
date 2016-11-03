@@ -3,12 +3,12 @@ rez-menu
 
 _simple responsive menu_
 
-###Example using rez-menu_
+###Using rez-menu
 
 ####Add style sheets
 - add link to CSS directly to your HTML file:
 ```html
-<link rel="stylesheet" type="text/css" href="{styles-file-path}/rez-menu.css"/>
+<link rel="stylesheet" type="text/css" href="{styles-file-path}/style-rez-menu.css"/>
 ```
 - add styles to your main SCSS styles file:
 ```scss
