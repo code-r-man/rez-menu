@@ -190,6 +190,10 @@ $nav-back-primary:			lighten(#3498db,0);
 		display: none;
 	}
 
+	@media (max-width: $screen-xs) {
+		right: 10px;
+	}
+
 	span {
 		display: block;
 		background-color: #fff;
