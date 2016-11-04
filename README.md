@@ -61,12 +61,12 @@ Option | Type | Default | Description
 ------ | ---- | ------- | -----------
 break_point | integer | 768 | Screen width in [px] when the menu collapses to mobile view.
 target | string | '.nav__list' | Target to which 'collapse' will be applied. Can be id or class and is written including single quotes ('). Example: '.some-class' / '#some-id'.
-duration | integer | 400 | Collapse animation duration in [ms]
+duration | integer | 400 | Collapse animation duration in [ms].
 auto_collapse | boolean | true | Triggers menu auto-collapse on menu link click.
 toggle_animate | boolean | true | Make the 'hamburger' icon animate into 'x' when the menu is shown.
 fixed | boolean | true | Make the menu stick to the top of the page on mobile view.
 logo_center | boolean | true |  Move the logo to center on mobile view.
-backdrop_close | boolean | true | Clicking on area outside the menu will close the it.
+backdrop_close | boolean | true | Clicking on area outside the menu will close it.
 backdrop_show | boolean | true | Toggle visibility of the backdrop area. If set to `false` it will keep it's functionality, it will just not be visible.
 
 ####Browser compatibility
