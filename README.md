@@ -54,7 +54,7 @@ rez_menu({option:setting});
 ```
 
 ####Demo page
-[live example](dist/sample-page.html)
+[live example](http://www.coderman.tk/coderman/rez-menu/sample-homepage.html)
 
 
 
