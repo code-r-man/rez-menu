@@ -63,7 +63,7 @@ rez_menu = function(options) {
 	
 	// Close the menu on link click
 	$(settings.target).find('a').click(function() {
-		if (settings.auto_collapse) {
+		if (settings.auto_collapse && win_width <= settings.break_point) {
 			toggle_menu();
 		}
 	});
