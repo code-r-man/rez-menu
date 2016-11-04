@@ -49,7 +49,7 @@ rez_menu = function(options) {
 				if (settings.backdrop_show) {
 					backdrop_style = 'nav-backdrop--show'
 				}
-				$('body').append("<div class='nav-backdrop " + backdrop_style + "'></div>");
+				$('body').append("<a href='#!' class='nav-backdrop " + backdrop_style + "'></a>");
 			}
 		}
 	});

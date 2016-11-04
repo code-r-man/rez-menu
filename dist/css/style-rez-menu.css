@@ -192,11 +192,6 @@
   right: 15px;
   top: 13px;
 }
-@media (max-width: 767px) {
-  .nav__toggle {
-    top: 12px;
-  }
-}
 @media (min-width: 769px) {
   .nav__toggle {
     display: none;
