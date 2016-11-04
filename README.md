@@ -53,6 +53,9 @@ _simple responsive menu_
 rez_menu({option:setting});
 ```
 
+####Demo page
+[live example](dist/sample-page.html)
+
 
 
 ###Options
